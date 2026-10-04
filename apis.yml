@@ -39,7 +39,6 @@ apis:
   - name: Mgnet.me
     description: "Torrent URL shorten API"
     humanURL: http://mgnet.me/api.html
-    baseURL: http://mgnet.me/api.html
     tags:
       - URL Shorteners
     properties:
